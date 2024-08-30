@@ -9,3 +9,7 @@ This research not only offers actionable insights for restaurateurs looking to e
 --- 
 
 This abstract provides a comprehensive overview of the data analysis on Zomato, highlighting the objectives, methods, key findings, and implications of the research.
+
+---------------------------------------------------------------------------------------------------
+
+**Zomato** has an avergae of 17.5 million monthly transcating customers for its food delivery business average monthly active food delivery restaurant partners on Zomato's platform have also increased by 8.7% year on year, from 208,000 to 226,000. You are working in a data driven role at Zomato. You have a dataset of customers. As a data professional, you need to analyze the data, perform EDA and visualization, and answers the following Questions:
